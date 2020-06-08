@@ -1,0 +1,2476 @@
+{
+  "STAASSTASS": [
+    {
+      "Q9BTC0": "DIDO1"
+    },
+    {
+      "AFJ11183.1": "N protein"
+    }
+  ],
+  "RSRSRSRSNS": [
+    {
+      "Q07955": "SRSF1"
+    },
+    {
+      "ABW87831.1": "nucleocapsid protein"
+    },
+    {
+      "YP_001876448.1": "nucleocapsid protein"
+    },
+    {
+      "AHB63493.1": "N protein"
+    },
+    {
+      "AHB63506.1": "N protein"
+    },
+    {
+      "AHB63520.1": "N protein"
+    },
+    {
+      "QII89031.1": "N protein"
+    },
+    {
+      "QII89045.1": "N protein"
+    },
+    {
+      "QII89059.1": "N protein"
+    },
+    {
+      "QII89073.1": "N protein"
+    }
+  ],
+  "SQQQQQQQQQ": [
+    {
+      "Q8TF68": "ZNF384"
+    },
+    {
+      "Q4VCS5": "AMOT"
+    },
+    {
+      "Q13495": "MAMLD1"
+    },
+    {
+      "Q14686": "NCOA6"
+    },
+    {
+      "Q9Y618": "NCOR2"
+    },
+    {
+      "YP_009052475.1": "pp1ab"
+    },
+    {
+      "AIJ50565.1": "pp1ab"
+    }
+  ],
+  "SQSRSQSRSR": [
+    {
+      "O75494": "SRSF10"
+    },
+    {
+      "AFR79254.1": "nucleocapsid protein"
+    },
+    {
+      "AST12968.1": "nucleocapsid protein"
+    },
+    {
+      "ARX11400.1": "nucleocapsid protein"
+    },
+    {
+      "AOG74787.1": "N"
+    },
+    {
+      "QJY77959.1": "nucleocapsid protein"
+    },
+    {
+      "QJY77975.1": "nucleocapsid protein"
+    },
+    {
+      "QJY77967.1": "nucleocapsid protein"
+    },
+    {
+      "QJY77983.1": "nucleocapsid protein"
+    },
+    {
+      "QJY77951.1": "nucleocapsid protein"
+    },
+    {
+      "QEG03789.1": "nucleocapsid protein"
+    },
+    {
+      "APT69887.1": "N"
+    },
+    {
+      "APT69866.1": "N"
+    },
+    {
+      "APT69873.1": "N"
+    },
+    {
+      "ARA15433.1": "N protein"
+    },
+    {
+      "ARK08646.1": "nucleocapsid protein"
+    },
+    {
+      "ARU07605.1": "nucleocapsid protein"
+    },
+    {
+      "ARK08624.1": "nucleocapsid protein"
+    },
+    {
+      "ARB07396.1": "N protein"
+    },
+    {
+      "APT69853.1": "N"
+    },
+    {
+      "APT69860.1": "N"
+    },
+    {
+      "APT69880.1": "N"
+    },
+    {
+      "APT69891.1": "N"
+    }
+  ],
+  "QQQQQQQQQQ": [
+    {
+      "Q96EK4": "THAP11"
+    },
+    {
+      "O15405": "TOX3"
+    },
+    {
+      "Q68DE3": "USF3"
+    },
+    {
+      "Q14119": "VEZF1"
+    },
+    {
+      "Q8TF68": "ZNF384"
+    },
+    {
+      "Q15911": "ZFHX3"
+    },
+    {
+      "Q2M2I8": "AAK1"
+    },
+    {
+      "Q8NE71": "ABCF1"
+    },
+    {
+      "P10275": "AR"
+    },
+    {
+      "P50553": "ASCL1"
+    },
+    {
+      "Q8NFD5": "ARID1B"
+    },
+    {
+      "Q8IVW6": "ARID3B"
+    },
+    {
+      "Q156A1": "ATXN8"
+    },
+    {
+      "P54259": "ATN1"
+    },
+    {
+      "Q99700": "ATXN2"
+    },
+    {
+      "P54253": "ATXN1"
+    },
+    {
+      "P54252": "ATXN3"
+    },
+    {
+      "Q9NSY1": "BMP2K"
+    },
+    {
+      "O15265": "ATXN7"
+    },
+    {
+      "O00555": "CACNA1A"
+    },
+    {
+      "Q8IWX8": "CHERP"
+    },
+    {
+      "Q5SZQ8": "CELF3"
+    },
+    {
+      "Q92793": "CREBBP"
+    },
+    {
+      "Q8IZD4": "DCP1B"
+    },
+    {
+      "O75064": "DENND4B"
+    },
+    {
+      "P54098": "POLG"
+    },
+    {
+      "Q96L91": "EP400"
+    },
+    {
+      "P0CG42": "FAM157B"
+    },
+    {
+      "P0CG43": "FAM157C"
+    },
+    {
+      "C9JC47": "FAM157A"
+    },
+    {
+      "Q6P995": "FAM171B"
+    },
+    {
+      "Q5JV73": "FRMPD3"
+    },
+    {
+      "O15409": "FOXP2"
+    },
+    {
+      "Q92896": "GLG1"
+    },
+    {
+      "P42858": "HTT"
+    },
+    {
+      "Q9H1B7": "IRF2BPL"
+    },
+    {
+      "Q10571": "MN1"
+    },
+    {
+      "Q9Y6R0": "NUMBL"
+    },
+    {
+      "Q9UGI6": "KCNN3"
+    },
+    {
+      "O14686": "KMT2D"
+    },
+    {
+      "O14910": "LIN7A"
+    },
+    {
+      "Q96JK9": "MAML3"
+    },
+    {
+      "Q96QZ7": "MAGI1"
+    },
+    {
+      "Q93074": "MED12"
+    },
+    {
+      "Q02078": "MEF2A"
+    },
+    {
+      "Q13495": "MAMLD1"
+    },
+    {
+      "Q8IZL2": "MAML2"
+    },
+    {
+      "Q96RN5": "MED15"
+    },
+    {
+      "Q9Y6Q9": "NCOA3"
+    },
+    {
+      "O94916": "NFAT5"
+    },
+    {
+      "Q14686": "NCOA6"
+    },
+    {
+      "Q9Y618": "NCOR2"
+    },
+    {
+      "Q8WV24": "PHLDA1"
+    },
+    {
+      "P78364": "PHC1"
+    },
+    {
+      "P20265": "POU3F2"
+    },
+    {
+      "P78424": "POU6F2"
+    },
+    {
+      "Q7Z5J4": "RAI1"
+    },
+    {
+      "Q9Y2K5": "R3HDM2"
+    },
+    {
+      "Q13950": "RUNX2"
+    },
+    {
+      "Q01826": "SATB1"
+    },
+    {
+      "Q9Y2K2": "SIK3"
+    },
+    {
+      "P51531": "SMARCA2"
+    },
+    {
+      "Q9BVH7": "ST6GALNAC5"
+    },
+    {
+      "B2RXF0": "TMEM229A"
+    },
+    {
+      "Q15714": "TSC22D1"
+    },
+    {
+      "P20226": "TBP"
+    },
+    {
+      "Q12800": "TFCP2"
+    },
+    {
+      "P19484": "TFEB"
+    },
+    {
+      "YP_009052475.1": "pp1ab"
+    },
+    {
+      "AIJ50565.1": "pp1ab"
+    }
+  ],
+  "SRASSRASSR": [
+    {
+      "P17302": "GJA1"
+    },
+    {
+      "YP_009328939.1": "N protein"
+    },
+    {
+      "APD51479.1": "N protein"
+    }
+  ],
+  "RSRSRGRSRS": [
+    {
+      "Q9UKJ3": "GPATCH8"
+    },
+    {
+      "YP_009019186.1": "nucleocapsid protein"
+    },
+    {
+      "ADI80517.1": "nucleocapsid protein"
+    }
+  ],
+  "RSRSRSQSRS": [
+    {
+      "Q8IWX8": "CHERP"
+    },
+    {
+      "Q96MS0": "ROBO3"
+    },
+    {
+      "A7MD48": "SRRM4"
+    },
+    {
+      "YP_009755842.1": "nucleocapsid protein"
+    },
+    {
+      "ATP66787.1": "nucleocapsid protein"
+    }
+  ],
+  "AVVGSTEEVK": [
+    {
+      "Q92599": "SEPT8"
+    },
+    {
+      "Q9NVA2": "SEPT11"
+    },
+    {
+      "AOI28282.1": "ORF1a"
+    },
+    {
+      "AOI28281.1": "ORF1ab"
+    },
+    {
+      "AOI28266.1": "ORF1a"
+    },
+    {
+      "AOI28265.1": "ORF1ab"
+    },
+    {
+      "AOI28257.1": "ORF1a"
+    },
+    {
+      "AOI28258.1": "ORF1ab"
+    },
+    {
+      "AOI28289.1": "ORF1ab"
+    },
+    {
+      "AOI28290.1": "ORF1a"
+    },
+    {
+      "AOI28274.1": "ORF1a"
+    },
+    {
+      "AOI28273.1": "ORF1ab"
+    },
+    {
+      "AOG74788.1": "ORF1ab"
+    }
+  ],
+  "SRSASRSRSR": [
+    {
+      "Q9Y2W1": "THRAP3"
+    },
+    {
+      "Q9UK58": "CCNL1"
+    },
+    {
+      "ADO39823.1": "nucleocapsid protein"
+    }
+  ],
+  "TPLISAGIFS": [
+    {
+      "P55011": "SLC12A2"
+    },
+    {
+      "ANA96038.1": "P1ab protein"
+    },
+    {
+      "VIPR_P_124389408_2808_8621.1": "nsp3"
+    },
+    {
+      "VIPR_P_124389418_2808_8621.1": "nsp3"
+    },
+    {
+      "VIPR_P_124389428_2808_8651.1": "nsp3"
+    },
+    {
+      "AWH65876.1": "ORF1a"
+    },
+    {
+      "AWH65875.1": "ORF1ab"
+    },
+    {
+      "AWH65886.1": "ORF1ab"
+    },
+    {
+      "AWH65887.1": "ORF1a"
+    },
+    {
+      "AWH65898.1": "ORF1a"
+    },
+    {
+      "AWH65897.1": "ORF1ab"
+    }
+  ],
+  "SVSRSRSRSR": [
+    {
+      "Q9BRL6": "SRSF8"
+    },
+    {
+      "Q01130": "SRSF2"
+    },
+    {
+      "AEK25527.1": "nucleocapsid protein"
+    }
+  ],
+  "KVMREVKALA": [
+    {
+      "Q9NZJ5": "EIF2AK3"
+    },
+    {
+      "ANY59000.1": "spike S glycoprotein"
+    },
+    {
+      "AXQ05191.1": "spike S glycoprotein"
+    },
+    {
+      "ARJ35789.1": "spike glycoprotein"
+    },
+    {
+      "AXB38894.1": "spike S glycoprotein"
+    },
+    {
+      "AYA44691.1": "spike protein"
+    },
+    {
+      "AYA44701.1": "spike protein"
+    },
+    {
+      "AYA44731.1": "spike protein"
+    },
+    {
+      "AYA44721.1": "spike protein"
+    },
+    {
+      "AYA44711.1": "spike protein"
+    },
+    {
+      "ADP06459.1": "spike"
+    },
+    {
+      "ALH21111.1": "spike protein"
+    },
+    {
+      "NP_040831.1": "spike protein"
+    },
+    {
+      "ADA83490.1": "spike glycoprotein"
+    },
+    {
+      "AHX26064.1": "spike protein"
+    },
+    {
+      "AEP84736.1": "spike protein"
+    },
+    {
+      "AGJ98437.1": "S protein"
+    },
+    {
+      "QDA76327.1": "spike protein"
+    },
+    {
+      "AGZ89672.1": "spike protein"
+    },
+    {
+      "AHX26172.1": "spike protein"
+    },
+    {
+      "ADA83517.1": "spike glycoprotein"
+    },
+    {
+      "ADA83527.1": "spike glycoprotein"
+    },
+    {
+      "AHB79523.1": "spike protein"
+    },
+    {
+      "QGX07410.1": "spike glycoprotein"
+    },
+    {
+      "AVI69453.1": "spike protein"
+    },
+    {
+      "AVI69444.1": "spike protein"
+    },
+    {
+      "QDQ69134.1": "spike protein"
+    },
+    {
+      "QDQ69121.1": "spike protein"
+    },
+    {
+      "QDA76291.1": "spike protein"
+    },
+    {
+      "AZP23930.1": "spike"
+    },
+    {
+      "AZP23949.1": "spike"
+    },
+    {
+      "AKV63205.1": "spike glycoprotein"
+    },
+    {
+      "QDA76309.1": "spike protein"
+    },
+    {
+      "QCE31533.1": "spike protein"
+    },
+    {
+      "ADA83537.1": "spike glycoprotein"
+    },
+    {
+      "ADA83547.1": "spike glycoprotein"
+    },
+    {
+      "ADA83557.1": "spike glycoprotein"
+    },
+    {
+      "ADA83567.1": "spike glycoprotein"
+    },
+    {
+      "ADA83467.1": "spike glycoprotein"
+    },
+    {
+      "ADP06504.1": "spike"
+    },
+    {
+      "AFQ31000.1": "S protein"
+    },
+    {
+      "ADV71734.1": "spike protein"
+    },
+    {
+      "ADV71760.1": "spike protein"
+    },
+    {
+      "ASM61973.1": "spike protein"
+    },
+    {
+      "ACB59372.1": "spike protein"
+    },
+    {
+      "AAA70235.1": "spike protein"
+    },
+    {
+      "AAY24423.1": "spike protein"
+    },
+    {
+      "AAY24433.1": "spike protein"
+    },
+    {
+      "AAV98206.1": "spike protein"
+    },
+    {
+      "ADA83477.1": "spike glycoprotein"
+    },
+    {
+      "AAS00080.1": "spike glycoprotein"
+    },
+    {
+      "ADA83507.1": "spike glycoprotein"
+    },
+    {
+      "ADA83497.1": "spike glycoprotein"
+    },
+    {
+      "ABI26423.1": "spike glycoprotein"
+    },
+    {
+      "AAW33786.1": "spike glycoprotein"
+    }
+  ],
+  "RFNVAVTRAK": [
+    {
+      "Q9HCE1": "MOV10"
+    },
+    {
+      "VIPR_ALG4_QCQ19881_1_15373_17163.1": "putative coronavirus nsp10 (MB, NTPase/HEL)"
+    },
+    {
+      "VIPR_ALG1_QJX69168_1_16200_18002.1": "helicase"
+    }
+  ],
+  "SSRSSSRSSS": [
+    {
+      "Q86VM9": "ZC3H18"
+    },
+    {
+      "Q8N2M8": "CLASRP"
+    },
+    {
+      "QHA24694.1": "nucleocapsid protein"
+    },
+    {
+      "ABN10891.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "ABN10900.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "ABN10909.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "ABN10882.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "AIA62350.1": "nucleocapsid protein"
+    },
+    {
+      "AWH65917.1": "N protein"
+    },
+    {
+      "AWH65928.1": "N protein"
+    },
+    {
+      "YP_001039969.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "AWH65939.1": "N protein"
+    }
+  ],
+  "RSRSQSRSQS": [
+    {
+      "Q96MS0": "ROBO3"
+    },
+    {
+      "AFG19729.1": "nucleocapsid"
+    },
+    {
+      "AEQ61973.1": "nucleocapsid protein"
+    },
+    {
+      "AKA65835.1": "nucleocapsid protein"
+    },
+    {
+      "ADB28913.1": "nucleocapsid protein"
+    },
+    {
+      "ASB15744.1": "N"
+    },
+    {
+      "ASB15754.1": "N"
+    },
+    {
+      "ASB15762.1": "N"
+    },
+    {
+      "AFX81103.1": "nucleocapsid protein"
+    },
+    {
+      "AFX81113.1": "nucleocapsid protein"
+    },
+    {
+      "AFG19745.1": "nucleocapsid"
+    }
+  ],
+  "SRSSSRSSSR": [
+    {
+      "Q8N2M8": "CLASRP"
+    },
+    {
+      "AVV62544.1": "N protein"
+    },
+    {
+      "QHA24694.1": "nucleocapsid protein"
+    },
+    {
+      "ABN10891.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "ABN10900.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "ABN10909.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "ABN10882.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "AIA62350.1": "nucleocapsid protein"
+    },
+    {
+      "AWH65917.1": "N protein"
+    },
+    {
+      "AWH65928.1": "N protein"
+    },
+    {
+      "YP_001039969.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "AWH65939.1": "N protein"
+    }
+  ],
+  "SSRASSRASS": [
+    {
+      "P17302": "GJA1"
+    },
+    {
+      "AYR18612.1": "nucleocapsid protein"
+    },
+    {
+      "AYR18630.1": "nucleocapsid protein"
+    },
+    {
+      "AYR18639.1": "nucleocapsid protein"
+    },
+    {
+      "AYR18648.1": "nucleocapsid protein"
+    },
+    {
+      "AYR18657.1": "nucleocapsid protein"
+    },
+    {
+      "AYR18675.1": "nucleocapsid protein"
+    },
+    {
+      "AYR18684.1": "nucleocapsid protein"
+    },
+    {
+      "AYR18693.1": "nucleocapsid protein"
+    },
+    {
+      "YP_009328939.1": "N protein"
+    },
+    {
+      "APD51479.1": "N protein"
+    },
+    {
+      "ATP66753.1": "nucleocapsid protein"
+    },
+    {
+      "ATP66747.1": "nucleocapsid protein"
+    },
+    {
+      "YP_009755837.1": "nucleocapsid protein"
+    },
+    {
+      "YP_009113031.1": "nucleocapsid protein"
+    },
+    {
+      "AJA91202.1": "nucleocapsid protein"
+    },
+    {
+      "AJA91213.1": "nucleocapsid protein"
+    },
+    {
+      "AJA91223.1": "nucleocapsid protein"
+    }
+  ],
+  "RSRSQSRSRS": [
+    {
+      "Q8IWX8": "CHERP"
+    },
+    {
+      "Q08170": "SRSF4"
+    },
+    {
+      "AKV62760.1": "nucleoprotein"
+    },
+    {
+      "ASV45153.1": "nucleoprotein"
+    },
+    {
+      "ABG89315.1": "nucleoprotein"
+    },
+    {
+      "ABG89293.1": "nucleoprotein"
+    },
+    {
+      "ABG89327.1": "nucleoprotein"
+    },
+    {
+      "ABU49664.1": "nucleoprotein"
+    },
+    {
+      "AEM55571.1": "nucleoprotein"
+    },
+    {
+      "ACN71201.1": "nucleoprotein"
+    },
+    {
+      "AMB66493.1": "nucleoprotein"
+    },
+    {
+      "NP_058428.1": "nucleoprotein"
+    },
+    {
+      "ABD97840.1": "nucleoprotein"
+    },
+    {
+      "AKA60059.1": "nucleoprotein"
+    },
+    {
+      "AQT01354.1": "nucleocapsid protein"
+    },
+    {
+      "AGM75131.1": "nucleocapsid protein"
+    },
+    {
+      "ASV64363.1": "nucleoprotein"
+    },
+    {
+      "ASV64291.1": "nucleoprotein"
+    },
+    {
+      "ASV64309.1": "nucleoprotein"
+    },
+    {
+      "ASV64372.1": "nucleoprotein"
+    },
+    {
+      "ASV64398.1": "nucleoprotein"
+    },
+    {
+      "ASV64344.1": "nucleoprotein"
+    },
+    {
+      "ASV64300.1": "nucleoprotein"
+    },
+    {
+      "ASV64327.1": "nucleoprotein"
+    },
+    {
+      "ASV64389.1": "nucleoprotein"
+    },
+    {
+      "ASV64407.1": "nucleoprotein"
+    },
+    {
+      "ASV64425.1": "nucleoprotein"
+    },
+    {
+      "ASV64434.1": "nucleoprotein"
+    },
+    {
+      "ASV64318.1": "nucleoprotein"
+    },
+    {
+      "ASV64336.1": "nucleoprotein"
+    },
+    {
+      "ASV64380.1": "nucleoprotein"
+    },
+    {
+      "ASV64443.1": "nucleoprotein"
+    },
+    {
+      "ASV64354.1": "nucleoprotein"
+    },
+    {
+      "ASV64416.1": "nucleoprotein"
+    },
+    {
+      "ASV64282.1": "nucleoprotein"
+    },
+    {
+      "AML22779.1": "nucleoprotein"
+    },
+    {
+      "ABC72419.1": "nucleoprotein"
+    },
+    {
+      "ADY39745.1": "nucleoprotein"
+    },
+    {
+      "ABG89310.1": "nucleocapsid protein"
+    },
+    {
+      "ABG89328.1": "nucleocapsid protein"
+    },
+    {
+      "CAB91150.1": "nucleoprotein"
+    }
+  ],
+  "QRSRSKSRTR": [
+    {
+      "Q96IZ7": "RSRC1"
+    },
+    {
+      "AMD11192.1": "nucleocapsid protein"
+    },
+    {
+      "AMD11203.1": "nucleocapsid protein"
+    },
+    {
+      "AMD11148.1": "nucleocapsid protein"
+    },
+    {
+      "AMD11159.1": "nucleocapsid protein"
+    },
+    {
+      "AMD11170.1": "nucleocapsid protein"
+    },
+    {
+      "AMD11214.1": "nucleocapsid protein"
+    },
+    {
+      "AMD11225.1": "nucleocapsid protein"
+    },
+    {
+      "AMD11236.1": "nucleocapsid protein"
+    },
+    {
+      "AMD11181.1": "nucleocapsid protein"
+    },
+    {
+      "AMD11136.1": "nucleocapsid protein"
+    },
+    {
+      "ACT10954.1": "nucleocapsid protein"
+    },
+    {
+      "ACT10965.1": "nucleocapsid protein"
+    }
+  ],
+  "SRSRSRGRSK": [
+    {
+      "Q9P2N5": "RBM27"
+    },
+    {
+      "AVY53339.1": "nucleocapsid protein"
+    },
+    {
+      "ADI80526.1": "nucleocapsid protein"
+    },
+    {
+      "BBA21172.1": "nucleocapsid protein"
+    },
+    {
+      "YP_009256201.1": "nucleocapsid protein"
+    },
+    {
+      "AKG92644.1": "nucleocapsid protein"
+    },
+    {
+      "BAV31353.1": "nucleocapsid protein"
+    },
+    {
+      "ASR18942.1": "nucleocapsid protein"
+    },
+    {
+      "ASR18950.1": "nucleocapsid protein"
+    }
+  ],
+  "RSASRSRSRS": [
+    {
+      "Q9Y2W1": "THRAP3"
+    },
+    {
+      "ADO39823.1": "nucleocapsid protein"
+    }
+  ],
+  "QQQQQQQKKK": [
+    {
+      "Q8NE71": "ABCF1"
+    },
+    {
+      "BBC54826.1": "nucleoprotein"
+    },
+    {
+      "BBC54836.1": "nucleoprotein"
+    },
+    {
+      "BBC54846.1": "nucleoprotein"
+    }
+  ],
+  "SSSSSASPSS": [
+    {
+      "Q9NYF8": "BCLAF1"
+    },
+    {
+      "YP_005352851.1": "NS7b protein"
+    },
+    {
+      "AFD29214.1": "NS7a protein"
+    }
+  ],
+  "SRSRSQSRSR": [
+    {
+      "Q8IWX8": "CHERP"
+    },
+    {
+      "Q08170": "SRSF4"
+    },
+    {
+      "YP_009755842.1": "nucleocapsid protein"
+    },
+    {
+      "ATP66787.1": "nucleocapsid protein"
+    },
+    {
+      "AKV62760.1": "nucleoprotein"
+    },
+    {
+      "ASV45153.1": "nucleoprotein"
+    },
+    {
+      "ABG89315.1": "nucleoprotein"
+    },
+    {
+      "ABG89293.1": "nucleoprotein"
+    },
+    {
+      "ABG89327.1": "nucleoprotein"
+    },
+    {
+      "ABU49664.1": "nucleoprotein"
+    },
+    {
+      "AEM55571.1": "nucleoprotein"
+    },
+    {
+      "ACN71201.1": "nucleoprotein"
+    },
+    {
+      "AMB66493.1": "nucleoprotein"
+    },
+    {
+      "NP_058428.1": "nucleoprotein"
+    },
+    {
+      "ABD97840.1": "nucleoprotein"
+    },
+    {
+      "AKA60059.1": "nucleoprotein"
+    },
+    {
+      "AQT01354.1": "nucleocapsid protein"
+    },
+    {
+      "AGM75131.1": "nucleocapsid protein"
+    },
+    {
+      "ASV64363.1": "nucleoprotein"
+    },
+    {
+      "ASV64291.1": "nucleoprotein"
+    },
+    {
+      "ASV64309.1": "nucleoprotein"
+    },
+    {
+      "ASV64372.1": "nucleoprotein"
+    },
+    {
+      "ASV64398.1": "nucleoprotein"
+    },
+    {
+      "ASV64344.1": "nucleoprotein"
+    },
+    {
+      "ASV64300.1": "nucleoprotein"
+    },
+    {
+      "ASV64327.1": "nucleoprotein"
+    },
+    {
+      "ASV64389.1": "nucleoprotein"
+    },
+    {
+      "ASV64407.1": "nucleoprotein"
+    },
+    {
+      "ASV64425.1": "nucleoprotein"
+    },
+    {
+      "ASV64434.1": "nucleoprotein"
+    },
+    {
+      "ASV64318.1": "nucleoprotein"
+    },
+    {
+      "ASV64336.1": "nucleoprotein"
+    },
+    {
+      "ASV64380.1": "nucleoprotein"
+    },
+    {
+      "ASV64443.1": "nucleoprotein"
+    },
+    {
+      "ASV64354.1": "nucleoprotein"
+    },
+    {
+      "ASV64416.1": "nucleoprotein"
+    },
+    {
+      "ASV64282.1": "nucleoprotein"
+    },
+    {
+      "AML22779.1": "nucleoprotein"
+    },
+    {
+      "ABC72419.1": "nucleoprotein"
+    },
+    {
+      "ADY39745.1": "nucleoprotein"
+    },
+    {
+      "ABG89310.1": "nucleocapsid protein"
+    },
+    {
+      "ABG89328.1": "nucleocapsid protein"
+    },
+    {
+      "CAB91150.1": "nucleoprotein"
+    }
+  ],
+  "QQQQQQQQHH": [
+    {
+      "Q4VCS5": "AMOT"
+    },
+    {
+      "P54259": "ATN1"
+    },
+    {
+      "Q9NSY1": "BMP2K"
+    },
+    {
+      "YP_009052475.1": "pp1ab"
+    },
+    {
+      "AIJ50565.1": "pp1ab"
+    }
+  ],
+  "EGNLLDSYFV": [
+    {
+      "Q9BU64": "CENPO"
+    },
+    {
+      "QDF43814.1": "ORF1ab"
+    },
+    {
+      "QDF43819.1": "ORF1ab"
+    },
+    {
+      "QDF43824.1": "ORF1ab"
+    },
+    {
+      "QDF43829.1": "ORF1ab"
+    },
+    {
+      "QDF43834.1": "ORF1ab"
+    },
+    {
+      "VIPR_ALG4_AIA62319_1_13126_15920.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_AIA62309_1_13303_16097.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_AIA62329_1_13137_15931.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "ADK66840.1": "ORF1ab"
+    },
+    {
+      "VIPR_ALG4_76160338_13351_16145.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_292660210_13342_16136.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_292660222_13342_16136.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_292660234_13351_16145.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_292660246_13324_16118.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_71796705_13334_16128.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_71796717_13334_16128.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_292660136_13351_16145.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_292660148_13351_16145.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_292660160_13351_16145.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_292660172_13363_16157.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_292660184_13363_16157.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_292660198_13342_16136.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_109893934_13389_16183.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_51475462_13346_16140.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_P_34482139_13357_13383.1": "nsp12"
+    },
+    {
+      "VIPR_P_34482139_13383_16151.1": "nsp12"
+    },
+    {
+      "VIPR_P_34482137_13357_13383.1": "nsp12"
+    },
+    {
+      "VIPR_P_34482137_13383_16151.1": "nsp12"
+    },
+    {
+      "VIPR_P_42563758_13351_13377.1": "nsp12"
+    },
+    {
+      "VIPR_P_42563758_13377_16145.1": "nsp12"
+    },
+    {
+      "VIPR_ALG4_115392314_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_P_42563748_13349_13375.1": "nsp12"
+    },
+    {
+      "VIPR_P_42563748_13375_16143.1": "nsp12"
+    },
+    {
+      "VIPR_ALG4_99078936_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_P_56208601_13383_16151.1": "nsp12"
+    },
+    {
+      "VIPR_P_56208601_13357_13383.1": "nsp12"
+    },
+    {
+      "VIPR_P_56208602_13357_13383.1": "nsp12"
+    },
+    {
+      "VIPR_P_56208602_13383_16151.1": "nsp12"
+    },
+    {
+      "VIPR_P_85814711_13398_16166.1": "nsp12"
+    },
+    {
+      "VIPR_P_85814711_13372_13398.1": "nsp12"
+    },
+    {
+      "VIPR_ALG4_56462869_13321_16115.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_37576846_13356_16150.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_55275787_13331_16125.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_30275667_13353_16147.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_P_31416292_13372_13398.1": "nsp12"
+    },
+    {
+      "VIPR_P_31416292_13398_16166.1": "nsp12"
+    },
+    {
+      "VIPR_P_31416305_13368_13394.1": "nsp12"
+    },
+    {
+      "VIPR_P_31416305_13394_16162.1": "nsp12"
+    },
+    {
+      "VIPR_P_31416306_13356_13382.1": "nsp12"
+    },
+    {
+      "VIPR_P_31416306_13382_16150.1": "nsp12"
+    },
+    {
+      "VIPR_ALG4_67003763_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_172044031_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_172044007_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_172044019_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_172043982_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_172043995_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_67003776_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_52546970_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_51475466_13324_16118.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_51475484_13301_16095.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_33114191_13357_16151.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_33114203_13357_16151.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_33114215_13357_16151.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_30421452_13357_16151.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_30023953_13357_16151.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_33578016_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_31581504_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_92698733_13331_16125.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_31416293_13356_16150.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_P_37624321_13300_13326.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624321_13326_16094.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624322_13346_16114.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624322_13320_13346.1": "nsp12"
+    },
+    {
+      "VIPR_ALG4_41323720_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_P_49036420_13322_13348.1": "nsp12"
+    },
+    {
+      "VIPR_P_49036420_13348_16116.1": "nsp12"
+    },
+    {
+      "VIPR_P_53854518_13322_13348.1": "nsp12"
+    },
+    {
+      "VIPR_P_53854518_13348_16116.1": "nsp12"
+    },
+    {
+      "VIPR_P_42556132_13349_13375.1": "nsp12"
+    },
+    {
+      "VIPR_P_42556132_13375_16143.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624336_13357_13383.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624336_13383_16151.1": "nsp12"
+    },
+    {
+      "VIPR_ALG4_33115119_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_P_37624328_13122_13148.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624328_13148_15916.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624337_13357_13383.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624337_13383_16151.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624329_13321_13347.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624329_13347_16115.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624326_13320_13346.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624326_13346_16114.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624335_13357_13383.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624335_13383_16151.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624332_13357_13383.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624332_13383_16151.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624333_13383_16151.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624333_13357_13383.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624330_13330_13356.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624330_13356_16124.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624334_13357_13383.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624334_13383_16151.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624341_13357_13383.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624341_13383_16151.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624342_13357_13383.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624342_13383_16151.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624343_13357_13383.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624343_13383_16151.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624344_13357_13383.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624344_13383_16151.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624345_13357_13383.1": "nsp12"
+    },
+    {
+      "VIPR_P_37624345_13383_16151.1": "nsp12"
+    },
+    {
+      "VIPR_ALG4_40795745_13356_16150.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_229595251_13353_16147.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_38231928_13359_16153.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_38231933_13358_16152.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_38231938_13358_16152.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_40557708_13293_16087.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_40457449_12714_15508.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_P_30468042_13356_13382.1": "nsp12"
+    },
+    {
+      "VIPR_P_30468042_13382_16150.1": "nsp12"
+    },
+    {
+      "VIPR_P_30468043_13356_13382.1": "nsp12"
+    },
+    {
+      "VIPR_P_30468043_13382_16150.1": "nsp12"
+    },
+    {
+      "VIPR_P_30468044_13356_13382.1": "nsp12"
+    },
+    {
+      "VIPR_P_30468044_13382_16150.1": "nsp12"
+    },
+    {
+      "VIPR_P_37361915_13356_13382.1": "nsp12"
+    },
+    {
+      "VIPR_P_37361915_13382_16150.1": "nsp12"
+    },
+    {
+      "VIPR_P_45644994_13359_13385.1": "nsp12"
+    },
+    {
+      "VIPR_P_45644994_13385_16154.1": "nsp12"
+    },
+    {
+      "VIPR_P_45645003_13356_13382.1": "nsp12"
+    },
+    {
+      "VIPR_P_45645003_13382_16150.1": "nsp12"
+    },
+    {
+      "VIPR_P_45645023_13364_13390.1": "nsp12"
+    },
+    {
+      "VIPR_P_45645023_13390_16158.1": "nsp12"
+    },
+    {
+      "VIPR_P_45644996_13371_13397.1": "nsp12"
+    },
+    {
+      "VIPR_P_45644996_13397_16165.1": "nsp12"
+    },
+    {
+      "VIPR_ALG4_38505483_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_38505492_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_P_45645007_13383_16151.1": "nsp12"
+    },
+    {
+      "VIPR_P_45645007_13357_13383.1": "nsp12"
+    },
+    {
+      "VIPR_P_38385714_13357_13383.1": "nsp12"
+    },
+    {
+      "VIPR_P_38385714_13383_16151.1": "nsp12"
+    },
+    {
+      "VIPR_ALG4_50365701_13371_16165.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_30698327_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_40548874_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_40548886_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_40548898_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_40548910_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_40548922_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_40548934_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_40548946_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_40548958_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_40548970_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_40548982_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_P_33518724_13372_13398.1": "nsp12"
+    },
+    {
+      "VIPR_P_33518724_13398_16166.1": "nsp12"
+    },
+    {
+      "VIPR_P_33518725_13372_13398.1": "nsp12"
+    },
+    {
+      "VIPR_P_33518725_13398_16166.1": "nsp12"
+    },
+    {
+      "VIPR_ALG4_33411400_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_33411415_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_33411430_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_33411445_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_33411460_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_60267747_13382_16176.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_172043970_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_74275571_13356_16150.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_556015129_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_556015116_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_556015144_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "NP_828869.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326909040_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_391377977_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309302_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309665_13325_16119.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309462_13351_16145.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309696_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309603_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309446_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309759_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309680_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309255_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309509_13314_16108.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309286_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309271_13351_16145.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309223_13340_16134.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340859_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340939_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340955_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340651_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340811_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340843_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530341035_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340603_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340779_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340795_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340875_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530341019_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340619_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530341083_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340987_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340683_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340587_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340923_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_285803949_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_285803934_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_285803919_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_380452612_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_387912996_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309728_13365_16159.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309633_13365_16159.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309712_13365_16159.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309571_13365_16159.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309775_13365_16159.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908944_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309525_13365_16159.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908848_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908640_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908928_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908992_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908688_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908832_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326909008_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908976_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908656_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908800_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908624_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908880_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908816_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908896_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908960_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908704_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908912_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908672_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908864_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908720_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908432_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908384_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908480_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908784_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908768_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908416_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908576_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908528_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908512_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908560_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908464_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908608_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908496_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908592_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908400_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908736_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908752_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908448_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326908544_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309649_13334_16128.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309478_13365_16159.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309493_13365_16159.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309744_13365_16159.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309790_13365_16159.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309618_13365_16159.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_255733162_12774_15568.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_33285967_13303_16097.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_33285979_13303_16097.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_33188325_13303_16097.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_AAP41036_1_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_AFR58685_1_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_AFR58727_1_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_AFR58741_1_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_AFR58699_1_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_AFR58671_1_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_AFR58713_1_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_QJE50587_1_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_AYV99815_1_13373_16167.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_AYV99801_1_13373_16167.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_AYV99787_1_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_AYV99773_1_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_AYV99759_1_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_30027621_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_AYV99745_1_13372_16166.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340731_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340747_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530341099_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530341115_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340635_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340571_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340971_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530341003_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340763_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340827_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530341067_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340667_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340891_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340715_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340907_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530341051_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530340699_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_530341131_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_326909024_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309541_13333_16127.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309334_13334_16128.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309557_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309366_13333_16127.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309318_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309382_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309587_13333_16127.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309239_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309430_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309350_13332_16126.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309398_13334_16128.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_270309414_13352_16146.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_ALG4_APO40578_1_13298_16092.1": "RNA-dependent RNA polymerase"
+    },
+    {
+      "VIPR_P_70665512_13398_16166.1": "nsp12"
+    },
+    {
+      "VIPR_P_70665512_13372_13398.1": "nsp12"
+    }
+  ],
+  "QQQQQQQQQE": [
+    {
+      "P10275": "AR"
+    },
+    {
+      "Q8IZD4": "DCP1B"
+    },
+    {
+      "O75064": "DENND4B"
+    },
+    {
+      "Q13950": "RUNX2"
+    },
+    {
+      "Q9Y2K2": "SIK3"
+    },
+    {
+      "YP_009052475.1": "pp1ab"
+    },
+    {
+      "AIJ50565.1": "pp1ab"
+    }
+  ],
+  "QQQQQQQQQS": [
+    {
+      "Q96EK4": "THAP11"
+    },
+    {
+      "Q8IZL2": "MAML2"
+    },
+    {
+      "O94916": "NFAT5"
+    },
+    {
+      "YP_009052475.1": "pp1ab"
+    },
+    {
+      "AIJ50565.1": "pp1ab"
+    }
+  ],
+  "QQQQQQQQPG": [
+    {
+      "Q8WV24": "PHLDA1"
+    },
+    {
+      "YP_009052475.1": "pp1ab"
+    },
+    {
+      "AIJ50565.1": "pp1ab"
+    }
+  ],
+  "MQQQQQQQQQ": [
+    {
+      "Q156A1": "ATXN8"
+    },
+    {
+      "Q9Y6Q9": "NCOA3"
+    },
+    {
+      "P19484": "TFEB"
+    },
+    {
+      "YP_009052475.1": "pp1ab"
+    },
+    {
+      "AIJ50565.1": "pp1ab"
+    }
+  ],
+  "QQQQQQQQQP": [
+    {
+      "Q9HBL0": "TNS1"
+    },
+    {
+      "Q8TF68": "ZNF384"
+    },
+    {
+      "Q99700": "ATXN2"
+    },
+    {
+      "O15265": "ATXN7"
+    },
+    {
+      "P54098": "POLG"
+    },
+    {
+      "Q92896": "GLG1"
+    },
+    {
+      "P42858": "HTT"
+    },
+    {
+      "Q9UGI6": "KCNN3"
+    },
+    {
+      "Q96JK9": "MAML3"
+    },
+    {
+      "Q02078": "MEF2A"
+    },
+    {
+      "Q13495": "MAMLD1"
+    },
+    {
+      "Q8IZL2": "MAML2"
+    },
+    {
+      "Q9Y618": "NCOR2"
+    },
+    {
+      "Q8WV24": "PHLDA1"
+    },
+    {
+      "P78364": "PHC1"
+    },
+    {
+      "P78424": "POU6F2"
+    },
+    {
+      "P51531": "SMARCA2"
+    },
+    {
+      "Q15714": "TSC22D1"
+    },
+    {
+      "YP_009052475.1": "pp1ab"
+    },
+    {
+      "AIJ50565.1": "pp1ab"
+    }
+  ],
+  "AAAAAAPEPP": [
+    {
+      "Q8N5X7": "EIF4E3"
+    },
+    {
+      "O14654": "IRS4"
+    },
+    {
+      "AIA62250.1": "nucleocapsid protein"
+    },
+    {
+      "YP_009199613.1": "nucleocapsid protein"
+    }
+  ],
+  "QQQQQQQQQV": [
+    {
+      "Q5JV73": "FRMPD3"
+    },
+    {
+      "O94916": "NFAT5"
+    },
+    {
+      "YP_009052475.1": "pp1ab"
+    },
+    {
+      "AIJ50565.1": "pp1ab"
+    }
+  ],
+  "IHGPPGTGKT": [
+    {
+      "P38935": "IGHMBP2"
+    },
+    {
+      "AVM87346.1": "1ab protein"
+    }
+  ],
+  "SRSRSRSRGR": [
+    {
+      "Q66PJ3": "ARL6IP4"
+    },
+    {
+      "Q9P2N5": "RBM27"
+    },
+    {
+      "Q9BUV0": "RSRP1"
+    },
+    {
+      "Q16629": "SRSF7"
+    },
+    {
+      "ADO39823.1": "nucleocapsid protein"
+    },
+    {
+      "AEK25527.1": "nucleocapsid protein"
+    }
+  ],
+  "NAEALNNLLL": [
+    {
+      "Q8TBE0": "BAHD1"
+    },
+    {
+      "AYR18599.1": "spike glycoprotein"
+    },
+    {
+      "AYR18616.1": "spike glycoprotein"
+    },
+    {
+      "ATP66773.1": "spike glycoprotein"
+    },
+    {
+      "ATP66779.1": "spike glycoprotein"
+    },
+    {
+      "ATP66762.1": "spike glycoprotein"
+    }
+  ],
+  "SSSRSSSRSR": [
+    {
+      "Q8N2M8": "CLASRP"
+    },
+    {
+      "AAY88874.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "ADE34798.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "ADE34809.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "ADE34820.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "ADE34831.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "AAZ41337.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "AAZ41348.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "ADE34730.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "ADE34741.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "ADE34752.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "ADE34787.1": "nucleocapsid phosphoprotein"
+    }
+  ],
+  "SRSRSQSRSQ": [
+    {
+      "Q96MS0": "ROBO3"
+    },
+    {
+      "AFG19729.1": "nucleocapsid"
+    },
+    {
+      "AEQ61973.1": "nucleocapsid protein"
+    },
+    {
+      "AKA65835.1": "nucleocapsid protein"
+    },
+    {
+      "ADB28913.1": "nucleocapsid protein"
+    },
+    {
+      "ASB15744.1": "N"
+    },
+    {
+      "ASB15754.1": "N"
+    },
+    {
+      "ASB15762.1": "N"
+    },
+    {
+      "AFX81103.1": "nucleocapsid protein"
+    },
+    {
+      "AFX81113.1": "nucleocapsid protein"
+    },
+    {
+      "AFG19745.1": "nucleocapsid"
+    }
+  ],
+  "DAAVLNYKAG": [
+    {
+      "Q12879": "GRIN2A"
+    },
+    {
+      "VIPR_P_82548055_2550_7313.1": "nsp3"
+    }
+  ],
+  "KQQQQQQQQQ": [
+    {
+      "Q68DE3": "USF3"
+    },
+    {
+      "Q14119": "VEZF1"
+    },
+    {
+      "P54252": "ATXN3"
+    },
+    {
+      "O14646": "CHD1"
+    },
+    {
+      "O14686": "KMT2D"
+    },
+    {
+      "Q96JK9": "MAML3"
+    },
+    {
+      "YP_009052475.1": "pp1ab"
+    },
+    {
+      "AIJ50565.1": "pp1ab"
+    }
+  ],
+  "HGPPGTGKTT": [
+    {
+      "P38935": "IGHMBP2"
+    },
+    {
+      "AVM87346.1": "1ab protein"
+    }
+  ],
+  "SRASSSSGPS": [
+    {
+      "Q9BUB7": "TMEM70"
+    },
+    {
+      "YP_009052475.1": "pp1ab"
+    },
+    {
+      "AIJ50565.1": "pp1ab"
+    }
+  ]
+}

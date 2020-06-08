@@ -1,0 +1,538 @@
+{
+  "SRSASRSRSRS": [
+    {
+      "Q9Y2W1": "THRAP3"
+    },
+    {
+      "ADO39823.1": "nucleocapsid protein"
+    }
+  ],
+  "MQQQQQQQQQQ": [
+    {
+      "Q156A1": "ATXN8"
+    },
+    {
+      "Q9Y6Q9": "NCOA3"
+    },
+    {
+      "P19484": "TFEB"
+    },
+    {
+      "YP_009052475.1": "pp1ab"
+    },
+    {
+      "AIJ50565.1": "pp1ab"
+    }
+  ],
+  "KQQQQQQQQQQ": [
+    {
+      "Q68DE3": "USF3"
+    },
+    {
+      "Q14119": "VEZF1"
+    },
+    {
+      "P54252": "ATXN3"
+    },
+    {
+      "O14686": "KMT2D"
+    },
+    {
+      "Q96JK9": "MAML3"
+    },
+    {
+      "YP_009052475.1": "pp1ab"
+    },
+    {
+      "AIJ50565.1": "pp1ab"
+    }
+  ],
+  "SSRASSRASSR": [
+    {
+      "P17302": "GJA1"
+    },
+    {
+      "YP_009328939.1": "N protein"
+    },
+    {
+      "APD51479.1": "N protein"
+    }
+  ],
+  "QQQQQQQQQPG": [
+    {
+      "Q8WV24": "PHLDA1"
+    },
+    {
+      "YP_009052475.1": "pp1ab"
+    },
+    {
+      "AIJ50565.1": "pp1ab"
+    }
+  ],
+  "QQQQQQQQQQP": [
+    {
+      "Q8TF68": "ZNF384"
+    },
+    {
+      "Q99700": "ATXN2"
+    },
+    {
+      "O15265": "ATXN7"
+    },
+    {
+      "P54098": "POLG"
+    },
+    {
+      "Q92896": "GLG1"
+    },
+    {
+      "P42858": "HTT"
+    },
+    {
+      "Q9UGI6": "KCNN3"
+    },
+    {
+      "Q96JK9": "MAML3"
+    },
+    {
+      "Q02078": "MEF2A"
+    },
+    {
+      "Q13495": "MAMLD1"
+    },
+    {
+      "Q8IZL2": "MAML2"
+    },
+    {
+      "Q9Y618": "NCOR2"
+    },
+    {
+      "Q8WV24": "PHLDA1"
+    },
+    {
+      "P78364": "PHC1"
+    },
+    {
+      "P78424": "POU6F2"
+    },
+    {
+      "P51531": "SMARCA2"
+    },
+    {
+      "Q15714": "TSC22D1"
+    },
+    {
+      "YP_009052475.1": "pp1ab"
+    },
+    {
+      "AIJ50565.1": "pp1ab"
+    }
+  ],
+  "QQQQQQQQQQV": [
+    {
+      "Q5JV73": "FRMPD3"
+    },
+    {
+      "O94916": "NFAT5"
+    },
+    {
+      "YP_009052475.1": "pp1ab"
+    },
+    {
+      "AIJ50565.1": "pp1ab"
+    }
+  ],
+  "IHGPPGTGKTT": [
+    {
+      "P38935": "IGHMBP2"
+    },
+    {
+      "AVM87346.1": "1ab protein"
+    }
+  ],
+  "QQQQQQQQQQQ": [
+    {
+      "Q96EK4": "THAP11"
+    },
+    {
+      "Q68DE3": "USF3"
+    },
+    {
+      "Q14119": "VEZF1"
+    },
+    {
+      "Q8TF68": "ZNF384"
+    },
+    {
+      "Q15911": "ZFHX3"
+    },
+    {
+      "Q2M2I8": "AAK1"
+    },
+    {
+      "P10275": "AR"
+    },
+    {
+      "P50553": "ASCL1"
+    },
+    {
+      "Q8NFD5": "ARID1B"
+    },
+    {
+      "Q8IVW6": "ARID3B"
+    },
+    {
+      "Q156A1": "ATXN8"
+    },
+    {
+      "P54259": "ATN1"
+    },
+    {
+      "Q99700": "ATXN2"
+    },
+    {
+      "P54253": "ATXN1"
+    },
+    {
+      "Q9NSY1": "BMP2K"
+    },
+    {
+      "O00555": "CACNA1A"
+    },
+    {
+      "Q8IWX8": "CHERP"
+    },
+    {
+      "Q5SZQ8": "CELF3"
+    },
+    {
+      "Q92793": "CREBBP"
+    },
+    {
+      "O75064": "DENND4B"
+    },
+    {
+      "P54098": "POLG"
+    },
+    {
+      "Q96L91": "EP400"
+    },
+    {
+      "P0CG42": "FAM157B"
+    },
+    {
+      "P0CG43": "FAM157C"
+    },
+    {
+      "C9JC47": "FAM157A"
+    },
+    {
+      "Q6P995": "FAM171B"
+    },
+    {
+      "Q5JV73": "FRMPD3"
+    },
+    {
+      "O15409": "FOXP2"
+    },
+    {
+      "Q92896": "GLG1"
+    },
+    {
+      "P42858": "HTT"
+    },
+    {
+      "Q9H1B7": "IRF2BPL"
+    },
+    {
+      "Q10571": "MN1"
+    },
+    {
+      "Q9Y6R0": "NUMBL"
+    },
+    {
+      "Q9UGI6": "KCNN3"
+    },
+    {
+      "O14686": "KMT2D"
+    },
+    {
+      "Q96JK9": "MAML3"
+    },
+    {
+      "Q96QZ7": "MAGI1"
+    },
+    {
+      "Q93074": "MED12"
+    },
+    {
+      "Q02078": "MEF2A"
+    },
+    {
+      "Q13495": "MAMLD1"
+    },
+    {
+      "Q8IZL2": "MAML2"
+    },
+    {
+      "Q96RN5": "MED15"
+    },
+    {
+      "Q9Y6Q9": "NCOA3"
+    },
+    {
+      "O94916": "NFAT5"
+    },
+    {
+      "Q14686": "NCOA6"
+    },
+    {
+      "Q9Y618": "NCOR2"
+    },
+    {
+      "Q8WV24": "PHLDA1"
+    },
+    {
+      "P78364": "PHC1"
+    },
+    {
+      "P20265": "POU3F2"
+    },
+    {
+      "Q7Z5J4": "RAI1"
+    },
+    {
+      "Q13950": "RUNX2"
+    },
+    {
+      "Q01826": "SATB1"
+    },
+    {
+      "P51531": "SMARCA2"
+    },
+    {
+      "Q9BVH7": "ST6GALNAC5"
+    },
+    {
+      "B2RXF0": "TMEM229A"
+    },
+    {
+      "Q15714": "TSC22D1"
+    },
+    {
+      "P20226": "TBP"
+    },
+    {
+      "YP_009052475.1": "pp1ab"
+    },
+    {
+      "AIJ50565.1": "pp1ab"
+    }
+  ],
+  "SSRSSSRSSSR": [
+    {
+      "Q8N2M8": "CLASRP"
+    },
+    {
+      "QHA24694.1": "nucleocapsid protein"
+    },
+    {
+      "ABN10891.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "ABN10900.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "ABN10909.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "ABN10882.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "AIA62350.1": "nucleocapsid protein"
+    },
+    {
+      "AWH65917.1": "N protein"
+    },
+    {
+      "AWH65928.1": "N protein"
+    },
+    {
+      "YP_001039969.1": "nucleocapsid phosphoprotein"
+    },
+    {
+      "AWH65939.1": "N protein"
+    }
+  ],
+  "SRSRSQSRSQS": [
+    {
+      "Q96MS0": "ROBO3"
+    },
+    {
+      "AFG19729.1": "nucleocapsid"
+    },
+    {
+      "AEQ61973.1": "nucleocapsid protein"
+    },
+    {
+      "AKA65835.1": "nucleocapsid protein"
+    },
+    {
+      "ADB28913.1": "nucleocapsid protein"
+    },
+    {
+      "ASB15744.1": "N"
+    },
+    {
+      "ASB15754.1": "N"
+    },
+    {
+      "ASB15762.1": "N"
+    },
+    {
+      "AFX81103.1": "nucleocapsid protein"
+    },
+    {
+      "AFX81113.1": "nucleocapsid protein"
+    },
+    {
+      "AFG19745.1": "nucleocapsid"
+    }
+  ],
+  "RSRSRSQSRSR": [
+    {
+      "Q8IWX8": "CHERP"
+    },
+    {
+      "YP_009755842.1": "nucleocapsid protein"
+    },
+    {
+      "ATP66787.1": "nucleocapsid protein"
+    }
+  ],
+  "SRSRSQSRSRS": [
+    {
+      "Q8IWX8": "CHERP"
+    },
+    {
+      "Q08170": "SRSF4"
+    },
+    {
+      "AKV62760.1": "nucleoprotein"
+    },
+    {
+      "ASV45153.1": "nucleoprotein"
+    },
+    {
+      "ABG89315.1": "nucleoprotein"
+    },
+    {
+      "ABG89293.1": "nucleoprotein"
+    },
+    {
+      "ABG89327.1": "nucleoprotein"
+    },
+    {
+      "ABU49664.1": "nucleoprotein"
+    },
+    {
+      "AEM55571.1": "nucleoprotein"
+    },
+    {
+      "ACN71201.1": "nucleoprotein"
+    },
+    {
+      "AMB66493.1": "nucleoprotein"
+    },
+    {
+      "NP_058428.1": "nucleoprotein"
+    },
+    {
+      "ABD97840.1": "nucleoprotein"
+    },
+    {
+      "AKA60059.1": "nucleoprotein"
+    },
+    {
+      "AQT01354.1": "nucleocapsid protein"
+    },
+    {
+      "AGM75131.1": "nucleocapsid protein"
+    },
+    {
+      "ASV64363.1": "nucleoprotein"
+    },
+    {
+      "ASV64291.1": "nucleoprotein"
+    },
+    {
+      "ASV64309.1": "nucleoprotein"
+    },
+    {
+      "ASV64372.1": "nucleoprotein"
+    },
+    {
+      "ASV64398.1": "nucleoprotein"
+    },
+    {
+      "ASV64344.1": "nucleoprotein"
+    },
+    {
+      "ASV64300.1": "nucleoprotein"
+    },
+    {
+      "ASV64327.1": "nucleoprotein"
+    },
+    {
+      "ASV64389.1": "nucleoprotein"
+    },
+    {
+      "ASV64407.1": "nucleoprotein"
+    },
+    {
+      "ASV64425.1": "nucleoprotein"
+    },
+    {
+      "ASV64434.1": "nucleoprotein"
+    },
+    {
+      "ASV64318.1": "nucleoprotein"
+    },
+    {
+      "ASV64336.1": "nucleoprotein"
+    },
+    {
+      "ASV64380.1": "nucleoprotein"
+    },
+    {
+      "ASV64443.1": "nucleoprotein"
+    },
+    {
+      "ASV64354.1": "nucleoprotein"
+    },
+    {
+      "ASV64416.1": "nucleoprotein"
+    },
+    {
+      "ASV64282.1": "nucleoprotein"
+    },
+    {
+      "AML22779.1": "nucleoprotein"
+    },
+    {
+      "ABC72419.1": "nucleoprotein"
+    },
+    {
+      "ADY39745.1": "nucleoprotein"
+    },
+    {
+      "ABG89310.1": "nucleocapsid protein"
+    },
+    {
+      "ABG89328.1": "nucleocapsid protein"
+    },
+    {
+      "CAB91150.1": "nucleoprotein"
+    }
+  ]
+}
